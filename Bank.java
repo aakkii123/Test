@@ -27,6 +27,6 @@ rv.deposit(1000);
 System.out.println("Transaction Details");
 rv.withdraw(500);
 System.out.println("Transaction Details");
-System.out.println("Transaction Details");
+
 }
 }
